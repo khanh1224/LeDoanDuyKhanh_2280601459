@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_2280601697",
+  "version": "1.0.0",
+  "description": "Trần Sỷ Sơn Lâm - 2280601697",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonlammmmm/NodeJS_2280601697.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonlammmmm/NodeJS_2280601697/issues"
+  },
+  "homepage": "https://github.com/sonlammmmm/NodeJS_2280601697#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.5"
+  }
+}
